@@ -1,0 +1,8 @@
+we use this to store all of them
+           Special file permission
+we have 3 special file - suid bits (s) set user ID  addfront of no 4/r 
+                       -SGID bits (s) set group ID add front of 2/W
+                       -STICKy bits (t) set other ID bit add front of 1/X
+' Package INSTALLAtion on linux 
+1 to install software on linux we used package managers 
+-  Ex: apt,packman 
