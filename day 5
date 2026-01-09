@@ -21,3 +21,14 @@ to solve if you close apt while instalation 1. sudol apt edit-sources
  sudo dpkg -i file name 
  sujdo dpkg -r 
  sudo dphg -p file name 
+              flatpak
+is a universal software packeging and distribution system for linux desktop application 
+ to install flatpak . sudo apt install flatpak 
+- to instal application . flatpak instull flathub 
+ - flatpak run sw name 
+  - flatpak search sw name 
+  - flatpak unistall sw n ame 
+  - flatpak update sw name 
+  - flatpak list 
+ to see flatpak version . flatpak --version . 
+  
