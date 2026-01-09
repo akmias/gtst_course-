@@ -6,3 +6,13 @@ we have 3 special file - suid bits (s) set user ID  addfront of no 4/r
 ' Package INSTALLAtion on linux 
 1 to install software on linux we used package managers 
 -  Ex: apt,packman 
+sudo apt remove delete only package 
+sudo apt purge sftware name delete software,dependence,package .
+  PACKAGE DEPENDANSiec/MODULES 
+is a software built based on other program 
+. SO used to work program properly,the dependincies have to be installed sucesfully 
+package manager installed sftware+dependencies 
+      LINUUX REPOSITERY Erors 
+1.  to update latest apt /etc/apt/sources.list 
+to get latest repositery configuration search onm google leatest linux repositry configration 
+leatest version of linux ripositeryconfigeration link 
